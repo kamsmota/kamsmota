@@ -16,9 +16,16 @@
   
 
 <br/>  
+  
 
 
-## Connect with me  
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kamsmota&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>
+
+
+## outras redes  
 <div align="center">
 <a href="https://github.com/kamsmota" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -27,15 +34,8 @@
   <img src="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
 </a>
 <a href="https://gitlab.com/kamsmota" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>  
-</div>  
+  <img src="https://img.shields.io/badge/gitlab-%23FFFFFF.svg?&style=for-the-badge&logo=gitlab&logoColor=orange&color=orange" alt="gitlab" style="margin-bottom: 5px;" />
+</a> 
   
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kamsmota&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+<br/>
