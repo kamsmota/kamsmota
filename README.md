@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
 </a>
 <a href="https://gitlab.com/kamsmota" target="_blank">
-  <img src="https://img.shields.io/badge/gitlab-%23FFFFFF.svg?&style=for-the-badge&logo=gitlab&logoColor=orange&color=orange" alt="gitlab" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/gitlab-%23FFFFFF.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=orange" alt="gitlab" style="margin-bottom: 5px;" />
 </a> 
   
 
