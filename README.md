@@ -1,4 +1,4 @@
-### <div align="center">oi! eu sou a kams :)</div>  
+### <div align="center">Oi! Eu sou a Kams :)</div>  
   
 
 - 📓 Cursando Desenvolvimento de Sistemas no Instituto Federal (3/4)  
