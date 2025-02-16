@@ -1,4 +1,4 @@
-### <h1 align="center">Oi! Eu sou a Kams :)</div>  
+### <h1 align="center">Oi! Eu sou a Kams :)</h1>  
   
 
 - 📓 Cursando Desenvolvimento de Sistemas no Instituto Federal (3/4)  
@@ -8,9 +8,7 @@
   
 
 
-
-
-⭐ Aprender novos idiomas é um dos meus hobbies favoritos! Por isso, é comum encontrar variáveis e comentários em diferentes línguas nos meus projetos  
+<h4 align = "center">⭐ Aprender novos idiomas é um dos meus hobbies favoritos! Por isso, é comum encontrar variáveis e comentários em diferentes línguas nos meus projetos </h4>
   
 
 <br/>  
