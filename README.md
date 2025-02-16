@@ -7,7 +7,7 @@
 - 🌱Inglês (nível B2) | Francês (nível A1)  
   
 
-- ⚡ Curiosidade: Aprender novos idiomas é um dos meus hobbies favoritos! Por isso, é comum encontrar variáveis e comentários em diferentes línguas nos meus projetos  
+- ⭐ Curiosidade: Aprender novos idiomas é um dos meus hobbies favoritos! Por isso, é comum encontrar variáveis e comentários em diferentes línguas nos meus projetos  
   
 
 <br/>  
