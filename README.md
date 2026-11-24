@@ -38,7 +38,6 @@
     alt="Python"
   />
 </div>
-
 <br>
 
 <div align="center">
